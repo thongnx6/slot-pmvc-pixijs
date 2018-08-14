@@ -1,7 +1,5 @@
 # Slot game - PixiJS v4, PureMVC
 
-* [Live Demo](http://www.smurali.com/slotgame/)
-
 ## Platforms / Technologies
 * JavaScript
 * HTML5
